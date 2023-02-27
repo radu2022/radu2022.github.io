@@ -4,8 +4,8 @@
 card, timeline background: #fff;
 
 /*green*/
-$primary-color: #06A763;
-$accent-color: #1976D2;
+$primary-color: #2A4E73;
+$accent-color: #6989AA;
 
 /*blue*/
 $primary-color: #1F5694;

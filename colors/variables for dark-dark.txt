@@ -6,8 +6,8 @@
 ///*                      PRIMARY AND ACCENT COLORS                         */
 ///*    SIX PROVIDED COLORS CAN BE FOUND ON FOLDER COLORS/COLORS.TXT        */
 ///*========================================================================*/
-$primary-color: #06A763;
-$accent-color: #06A763;
+$primary-color: #2C3E50 ;
+$accent-color: #2C3E50 ;
 
 
 $primary-color-light: lighten($primary-color, 7%);

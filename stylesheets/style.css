@@ -572,7 +572,7 @@ body.scale-effect .btn-holder .btn-play {
 
 #loading {
   /*pre-loader*/
-  background-color: #06a763;
+  background-color: #2C3E50 2C3E50 ;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -753,7 +753,7 @@ body.scale-effect .btn-holder .btn-play {
   top: 0;
   z-index: 10;
   text-align: left;
-  background: #06a763;
+  background: #2C3E50 ;
 }
 
 #home .menu a {
@@ -942,7 +942,7 @@ body.scale-effect .btn-holder .btn-play {
   overflow: hidden;
   transition: height 1s, color 1s, margin 1s;
   z-index: 1;
-  background: #06a763;
+  background: #2C3E50 ;
   margin: -33px 3px 0 0;
 }
 
@@ -1080,7 +1080,7 @@ body.scale-effect .btn-holder .btn-play {
   position: absolute;
   border-style: solid;
   border-width: 400px 0 0 100px;
-  border-color: rgba(223, 50, 50, 0) transparent transparent #06a763;
+  border-color: rgba(223, 50, 50, 0) transparent transparent #2C3E50 ;
 }
 
 #v-card-holder #v-card #profile .add-btn {
@@ -1200,7 +1200,7 @@ body.scale-effect .btn-holder .btn-play {
 #about .about-btn .btn {
   /*button style*/
   margin: 7px 7px;
-  background: #06a763;
+  background: #2C3E50 ;
   color: #fff;
   width: 180px;
   border-radius: 2px;
@@ -1208,7 +1208,7 @@ body.scale-effect .btn-holder .btn-play {
 
 #about .about-btn .btn:hover {
   /*hover effect*/
-  background: #05985a;
+  background: #2C3E50 ;
 }
 
 /*-------------------------------------------------------------------------------
@@ -1230,7 +1230,7 @@ body.scale-effect .btn-holder .btn-play {
   height: 99.5%;
   width: 4px;
   opacity: 0.3;
-  background: #06a763;
+  background: #2C3E50 ;
 }
 
 #timeline-experience {
@@ -1248,7 +1248,7 @@ body.scale-effect .btn-holder .btn-play {
   height: 99.5%;
   width: 4px;
   opacity: 0.3;
-  background: #06a763;
+  background: #2C3E50 ;
 }
 
 .timeline-block {
@@ -1294,7 +1294,7 @@ body.scale-effect .btn-holder .btn-play {
 
 .timeline-block .timeline-dot {
   /*timeline dot*/
-  background: #06a763;
+  background: #2C3E50 ;
   width: 50px;
   height: 50px;
   border-radius: 100%;
@@ -1344,7 +1344,7 @@ body.scale-effect .btn-holder .btn-play {
   left: 100%;
   z-index: -2;
   opacity: 0.4;
-  background: #06a763;
+  background: #2C3E50 ;
 }
 
 .timeline-block .timeline-content::after {
@@ -1389,7 +1389,7 @@ body.scale-effect .btn-holder .btn-play {
     margin-left: -2px;
     height: 83.1%;
     opacity: 0.4;
-    background: #06a763;
+    background: #2C3E50 ;
   }
   #timeline-experience::before {
     /*vertical line for experience in min width 768 */
@@ -1397,7 +1397,7 @@ body.scale-effect .btn-holder .btn-play {
     margin-left: -2px;
     height: 88.1%;
     opacity: 0.4;
-    background: #06a763;
+    background: #2C3E50 ;
   }
   .timeline-block {
     /*timeline block in min width 768*/
@@ -1445,7 +1445,7 @@ body.scale-effect .btn-holder .btn-play {
 /*skills section*/
 
 #skills .card {
-  background: #06a763;
+  background: #2C3E50 ;
   /*skills title*/
 }
 
@@ -1468,7 +1468,7 @@ body.scale-effect .btn-holder .btn-play {
   margin-top: 45px;
   width: 100%;
   padding: 0 0;
-  background: #05985a;
+  background: #2C3E50 ;
   height: 4px;
   -webkit-transition: 0.4s linear;
   transition: 0.4s linear;
@@ -2286,7 +2286,7 @@ POPUP ANIMATIONS
   /*interest icon*/
   display: block;
   color: #fff;
-  background: #06a763;
+  background: #2C3E50 ;
   height: 105px;
 }
 
@@ -2304,7 +2304,7 @@ POPUP ANIMATIONS
 #interest .card .box .interest-icon-even {
   /*interest icon even*/
   display: block;
-  color: #06a763;
+  color: #2C3E50 ;
   height: 105px;
   margin-right: -1px;
 }
@@ -2334,7 +2334,7 @@ POPUP ANIMATIONS
 /*testimonials section*/
 
 #testimonials #testimonials-card {
-  background: #06a763;
+  background: #2C3E50 ;
 }
 
 #testimonials #testimonials-card .swiper-pagination .swiper-pagination-bullet {
@@ -2470,7 +2470,7 @@ POPUP ANIMATIONS
 #pricing-table .card .pricing-top {
   /*pricing details*/
   width: 100%;
-  background: #06a763;
+  background: #2C3E50 ;
   color: #fff;
   padding: 30px 0 40px 0;
   text-align: center;
@@ -2514,7 +2514,7 @@ POPUP ANIMATIONS
 
 #pricing-table .card .btn {
   /*purchase button*/
-  background: #06a763;
+  background: #2C3E50 ;
   margin-bottom: 5px;
   color: #fff;
   border-radius: 2px;
@@ -2522,7 +2522,7 @@ POPUP ANIMATIONS
 
 #pricing-table .card .btn:hover {
   /*button hover effect*/
-  background: #05985a;
+  background: #2C3E50 ;
 }
 
 /*-------------------------------------------------------------------------------
@@ -2718,7 +2718,7 @@ POPUP ANIMATIONS
 
 #contact .card .card-content .btn {
   /*send button*/
-  background-color: #06a763;
+  background-color: #2C3E50 ;
   width: 115px;
   color: #fff;
   border-radius: 2px;
@@ -2727,7 +2727,7 @@ POPUP ANIMATIONS
 
 #contact .card .card-content .btn:hover {
   /*hover effect*/
-  background: #05985a;
+  background: #2C3E50 ;
 }
 
 #contact .card .card-content .thankyou {
@@ -2943,7 +2943,7 @@ footer {
 }
 
 .single-page .section-title i {
-  color: #06a763;
+  color: #2C3E50 ;
   padding: 12px;
 }
 
@@ -3007,7 +3007,7 @@ footer {
 .single-page .post header {
   /*headings*/
   padding: 20px;
-  background: #06a763;
+  background: #2C3E50 ;
   color: #fff;
 }
 
@@ -3061,7 +3061,7 @@ footer {
 }
 
 .single-page .widget-holder h4 {
-  background: #06a763;
+  background: #2C3E50 ;
   color: #fff;
   font-size: 24px;
   padding: 15px;
